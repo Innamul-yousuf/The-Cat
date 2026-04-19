@@ -1,0 +1,8 @@
+# Android SDK
+android-sdk/
+*.zip
+
+# Build files
+.gradle/
+build/
+local.properties
