@@ -1,0 +1,4 @@
+int drawable ic_cat_paw 0x7f010000
+int id catImage 0x7f020000
+int layout widget_cat 0x7f030000
+int xml widget_info 0x7f040000

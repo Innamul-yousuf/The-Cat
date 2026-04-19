@@ -1,0 +1,4 @@
+com.example.widget:xml/widget_info = 0x7f040000
+com.example.widget:layout/widget_cat = 0x7f030000
+com.example.widget:id/catImage = 0x7f020000
+com.example.widget:drawable/ic_cat_paw = 0x7f010000

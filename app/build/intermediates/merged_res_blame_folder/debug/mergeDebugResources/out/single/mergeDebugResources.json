@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.widget.app-debug-4:/layout_widget_cat.xml.flat",
+        "source": "com.example.widget.app-main-6:/layout/widget_cat.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/9.4.1/com.example.widget.app-debug-4:/layout_widget_cat.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/9.4.1/com.example.widget.app-main-6:/layout/widget_cat.xml"
+    },
+    {
+        "merged": "/home/codespace/.gradle/daemon/9.4.1/com.example.widget.app-debug-4:/xml_widget_info.xml.flat",
+        "source": "/home/codespace/.gradle/daemon/9.4.1/com.example.widget.app-main-6:/xml/widget_info.xml"
+    },
+    {
+        "merged": "com.example.widget.app-debug-4:/drawable_ic_cat_paw.xml.flat",
+        "source": "com.example.widget.app-main-6:/drawable/ic_cat_paw.xml"
+    }
+]
